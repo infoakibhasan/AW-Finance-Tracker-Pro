@@ -1,0 +1,17 @@
+
+{
+  "short_name": "AW Finance",
+  "name": "AW Finance Tracker Pro",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=AWFinance&backgroundColor=0f172a",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc"
+}

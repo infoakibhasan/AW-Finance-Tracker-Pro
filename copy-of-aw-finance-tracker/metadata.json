@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AW Finance Tracker",
+  "description": "A multi-currency financial management application for tracking funds, expenses, and inter-fund transfers with automated balance management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
